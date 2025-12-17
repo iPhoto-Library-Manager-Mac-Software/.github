@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://utility-install-mac.github.io/.github/iphotolibrarymanagermac">
+  <a href="https://soft-mac-install.github.io/.github/iphotomac">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200">
   </a>
 </p>
